@@ -23,7 +23,11 @@
             "promoted": true,
             "contract_address": "0x09A24783288Vn489823kij3uh39f8h349f8hj",
             "votes": 7,
-            "chain_data": "",
+            "chain_data": {
+            "price": "0.000234788",
+            "change": "12,999",
+            "marketcap": "230k"
+            },
             "presale_data": ""
           },
           {
@@ -49,7 +53,11 @@
             "promoted": false,
             "contract_address": "0x000000000000000000000",
             "votes": 0,
-            "chain_data": "",
+            "chain_data": {
+            "price": "0.000234788",
+            "change": "12,999",
+            "marketcap": "230k"
+            },
             "presale_data": ""
           },
           {
@@ -75,7 +83,11 @@
             "promoted": false,
             "contract_address": "0x0000000000000000000003221",
             "votes": 0,
-            "chain_data": "",
+            "chain_data": {
+            "price": "0.000234788",
+            "change": "12,999",
+            "marketcap": "230k"
+            },
             "presale_data": {
               "link": null,
               "cap_basetoken": null,
