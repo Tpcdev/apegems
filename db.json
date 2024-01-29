@@ -97,36 +97,5 @@
               "end_date": null
             }
           }
-    ],
-    "categories": [
-        {
-            "id":1,
-            "name": "Memecoins",
-            "slug": "memecoins"
-        },
-        {
-            "id":2,
-            "name": "Defi",
-            "slug": "defi"
-        },
-        {
-            "id":3,
-            "name": "Gamefi",
-            "slug": "gamefi"
-        }
-    ],
-    "blockchain":[
-        {
-            id:1,
-            "name": "Binance Smart Chain"
-        },
-        {
-            id:2,
-            "name": "Ethereum"
-        },
-        {
-            id:3,
-            "name": "Solana"
-        }
     ]
 }
